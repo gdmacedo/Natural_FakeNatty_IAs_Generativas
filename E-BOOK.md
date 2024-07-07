@@ -17,4 +17,4 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi um ponta-pé inicial, uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
